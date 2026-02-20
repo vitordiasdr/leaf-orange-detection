@@ -1,0 +1,12 @@
+../Bsp/ST7735/lcd.c:50:6:LCD_Test	48	static
+../Bsp/ST7735/lcd.c:115:6:LCD_SetBrightness	16	static
+../Bsp/ST7735/lcd.c:120:10:LCD_GetBrightness	4	static
+../Bsp/ST7735/lcd.c:129:6:LCD_Light	48	static
+../Bsp/ST7735/lcd.c:177:6:LCD_ShowChar	128	dynamic
+../Bsp/ST7735/lcd.c:261:6:LCD_ShowString	40	static
+../Bsp/ST7735/lcd.c:276:16:lcd_init	16	static
+../Bsp/ST7735/lcd.c:283:16:lcd_gettick	8	static
+../Bsp/ST7735/lcd.c:288:16:lcd_writereg	32	static
+../Bsp/ST7735/lcd.c:305:16:lcd_readreg	24	static
+../Bsp/ST7735/lcd.c:322:16:lcd_senddata	24	static
+../Bsp/ST7735/lcd.c:336:16:lcd_recvdata	24	static

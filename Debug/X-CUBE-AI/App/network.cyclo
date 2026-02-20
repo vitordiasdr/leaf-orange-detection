@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/network.c:6025:9:network_configure_activations	2
+../X-CUBE-AI/App/network.c:6330:9:network_configure_weights	2
+../X-CUBE-AI/App/network.c:6681:9:ai_network_get_info	4
+../X-CUBE-AI/App/network.c:6728:9:ai_network_get_report	4
+../X-CUBE-AI/App/network.c:6775:10:ai_network_get_error	1
+../X-CUBE-AI/App/network.c:6782:10:ai_network_create	1
+../X-CUBE-AI/App/network.c:6793:10:ai_network_create_and_init	8
+../X-CUBE-AI/App/network.c:6828:12:ai_network_inputs_get	2
+../X-CUBE-AI/App/network.c:6839:12:ai_network_outputs_get	2
+../X-CUBE-AI/App/network.c:6850:11:ai_network_destroy	1
+../X-CUBE-AI/App/network.c:6857:9:ai_network_init	2
+../X-CUBE-AI/App/network.c:6874:8:ai_network_run	1
+../X-CUBE-AI/App/network.c:6882:8:ai_network_forward	1
